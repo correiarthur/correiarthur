@@ -1,4 +1,4 @@
-# Olá, eu sou o Arthur Siqueira da Silva Correia! 👋
+# Olá, sou o Arthur! 👋
 
 ### Analista de Qualidade de Software
 
