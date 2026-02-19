@@ -4,11 +4,11 @@
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Skills
 
 - **QA & Testes:** Práticas baseadas em ISTQB-CTFL, Testes Manuais Funcionais e de Integração, Automação de Testes com Playwright e JavaScript.
 - **Banco de Dados:** SQL (pratica em SQL Server e PostgreSQL (Validação de dados, modelagem e análise)).
-- **Ferramentas & Design:** Azure DevOps (Gestão de demandas e bugs), Figma (Prototipagem de interfaces).
+- **Ferramentas & Design:** Azure DevOps (Gestão de demandas e bugs), Postman (Testes de API) e Figma (Prototipagem de interfaces).
 - **Data Science:** Python aplicado para Análise de Dados.
 - **Metodologias:** Scrum Foundation, OKR aplicado à Transformação Digital e Elaboração de POPs.
 
