@@ -21,9 +21,8 @@
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Contato
 
-- **Telefone:** +55 (65) 9 9615-1069
 - **Email:** euarthurcorreia@gmail.com
 - **LinkedIn:** [Arthur Correia](https://www.linkedin.com/in/arthur-correia-a943a0217/)
 
